@@ -23,7 +23,7 @@ Server为服务端的代码实现
     ![image](https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg?raw=true)
    
     统计销量界面：
-    ![image](statics.jpg)
+    ![image](https://github.com/superme-kindom/images-blog/blob/45efa186f01ac318667c14cce4073e1fb99848b6/statics.jpg)
 
     消息列表界面：
     ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png)
