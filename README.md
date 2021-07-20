@@ -20,13 +20,13 @@ Server为服务端的代码实现
   <img src="https://github.com/superme-kindom/images-blog/blob/main/windows.jpg" width="500"  /><br/>
   
     上传商品界面：  
-   <img src="https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg" width="500"  /><br/>
+   <img src="https://raw.githubusercontent.com/superme-kindom/images-blog/main/uploading.png" width="500"  /><br/>
    
     统计销量界面：
   <img src="https://github.com/superme-kindom/images-blog/blob/45efa186f01ac318667c14cce4073e1fb99848b6/statics.jpg" width="500"  /><br/>
 
     消息列表界面： 
-  <img src="https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png" width="500"  /><br/>
+  <img src="https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.jpg" width="500" height="700"  /><br/>
   
     
     登录界面： 
