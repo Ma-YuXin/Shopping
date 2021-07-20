@@ -16,6 +16,26 @@ Server为服务端的代码实现
     再运行客户端下的start文件进入登录界面。
     
     
+    主界面：
+    ![image](https://github.com/superme-kindom/images-blog/blob/main/windows.png?raw=true)
+    
+    
+    上传商品界面：
+    ![image](https://github.com/superme-kindom/images-blog/blob/main/uploading.png?raw=true)
+   
+    统计销量界面：
+      ![image](https://github.com/superme-kindom/images-blog/blob/main/statics.png?raw=true)
+
+    消息列表界面：
+    ![image](https://github.com/superme-kindom/images-blog/blob/main/newsList.png?raw=true)
+    
+    登录界面：
+    ![image](https://github.com/superme-kindom/images-blog/blob/main/login.png?raw=true)
+   
+    商品详细信息界面：
+    ![image](https://github.com/superme-kindom/images-blog/blob/main/detial.png?raw=true)
+   
+   
     修改个人信息界面：
     ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/changeInfo.png)
     
