@@ -20,7 +20,7 @@ Server为服务端的代码实现
   <img src="https://github.com/superme-kindom/images-blog/blob/main/windows.jpg" width="500"  /><br/>
   
     上传商品界面：  
-   <img src="https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg?raw=true" width="500"  /><br/>
+   <img src="https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg" width="500"  /><br/>
    
     统计销量界面：
   <img src="https://github.com/superme-kindom/images-blog/blob/45efa186f01ac318667c14cce4073e1fb99848b6/statics.jpg" width="500"  /><br/>
