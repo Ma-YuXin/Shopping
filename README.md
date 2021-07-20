@@ -27,7 +27,7 @@ Server为服务端的代码实现
       ![image](https://github.com/superme-kindom/images-blog/blob/main/statics.png?raw=true)
 
     消息列表界面：
-    ![image](https://github.com/superme-kindom/images-blog/blob/main/newsList.png?raw=true)
+    ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png)
     
     登录界面：
     ![image](https://github.com/superme-kindom/images-blog/blob/main/login.png?raw=true)
