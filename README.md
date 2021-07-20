@@ -16,5 +16,7 @@ Server为服务端的代码实现
     再运行客户端下的start文件进入登录界面。
     
     
+    修改个人信息界面：
+    ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/changeInfo.png)
     
 
