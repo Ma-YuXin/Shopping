@@ -17,10 +17,14 @@ Server为服务端的代码实现
     
     
     主界面：
+    
+    
     ![image](https://github.com/superme-kindom/images-blog/blob/main/windows.png)
     
     
     上传商品界面：
+    
+    
     ![image](https://github.com/superme-kindom/images-blog/blob/main/uploading.png?raw=true)
    
     统计销量界面：
