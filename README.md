@@ -23,7 +23,7 @@ Server为服务端的代码实现
     ![image](https://github.com/superme-kindom/images-blog/blob/main/uploading.png?raw=true)
    
     统计销量界面：
-    ![image](https://github.com/superme-kindom/images-blog/blob/main/statics.png?raw=true)
+    ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/statics.jpg)
 
     消息列表界面：
     ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png)
@@ -32,7 +32,7 @@ Server为服务端的代码实现
     ![image](https://github.com/superme-kindom/images-blog/blob/main/login.png?raw=true)
    
     商品详细信息界面：
-    ![image](https://github.com/superme-kindom/images-blog/blob/main/detial.png?raw=true)
+    ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/detial.jpg)
    
     修改个人信息界面：
     ![](https://github.com/superme-kindom/images-blog/blob/main/changeInfo.jpg)
