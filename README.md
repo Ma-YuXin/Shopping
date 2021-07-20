@@ -17,24 +17,28 @@ Server为服务端的代码实现
     
     
     主界面:    
-  ![image](https://github.com/superme-kindom/images-blog/blob/main/windows.jpg)    
-    
+  <img src="https://github.com/superme-kindom/images-blog/blob/main/windows.jpg" width="500"  /><br/>
+  
     上传商品界面：  
-  ![image](https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg?raw=true)
+   <img src="https://github.com/superme-kindom/images-blog/blob/main/uploading.jpg?raw=true" width="500"  /><br/>
    
     统计销量界面：
-  ![image](https://github.com/superme-kindom/images-blog/blob/45efa186f01ac318667c14cce4073e1fb99848b6/statics.jpg)
+  <img src="https://github.com/superme-kindom/images-blog/blob/45efa186f01ac318667c14cce4073e1fb99848b6/statics.jpg" width="500"  /><br/>
 
-    消息列表界面：
-  ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png)
+    消息列表界面： 
+  <img src="https://raw.githubusercontent.com/superme-kindom/images-blog/main/newsList.png" width="500"  /><br/>
+  
     
-    登录界面：
-  ![image](https://github.com/superme-kindom/images-blog/blob/main/login.jpg?raw=true)
+    登录界面： 
+   <img src="https://github.com/superme-kindom/images-blog/blob/main/login.jpg?raw=true" width="500"  /><br/>
+
    
-    商品详细信息界面：
-  ![image](https://raw.githubusercontent.com/superme-kindom/images-blog/main/detial.jpg)
+    商品详细信息界面： 
+   <img src="https://raw.githubusercontent.com/superme-kindom/images-blog/main/detial.jpg" width="500"  /><br/>
+  
    
     修改个人信息界面：
-  ![](https://github.com/superme-kindom/images-blog/blob/main/changeInfo.jpg)
+  <img src="https://github.com/superme-kindom/images-blog/blob/main/changeInfo.jpg" width="500"  /><br/>
+ 
 
 
