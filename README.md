@@ -35,6 +35,6 @@ Server为服务端的代码实现
     ![image](https://github.com/superme-kindom/images-blog/blob/main/detial.png?raw=true)
    
     修改个人信息界面：
-    ![](https://raw.githubusercontent.com/superme-kindom/images-blog/main/changeInfo.png)
+    ![](https://github.com/superme-kindom/images-blog/blob/main/changeInfo.jpg)
 
 
