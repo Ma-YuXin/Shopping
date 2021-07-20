@@ -14,3 +14,7 @@ Server为服务端的代码实现
 项目运行
     需要先运行服务端(即服务端下的ServerStart.java文件)。
     再运行客户端下的start文件进入登录界面。
+    
+    
+    ![image](https://user-images.githubusercontent.com/59757354/126278535-48f0ba11-d38f-4a6c-9892-ee55639dddde.png)
+
